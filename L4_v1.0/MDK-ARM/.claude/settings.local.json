@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"f:\\\\Orange\\\\L4_v1.0\\\\L4_v1.0\\\\MDK-ARM\\\\\" 2>/dev/null; echo \"---\"; ls \"f:\\\\Orange\\\\L4_v1.0\\\\L4_v1.0\\\\\" 2>/dev/null)",
+      "Read(//f/Orange/L4_v1.0/L4_v1.0/MDK-ARM\" 2>/dev/**)"
+    ]
+  }
+}
